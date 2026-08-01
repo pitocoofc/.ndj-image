@@ -1,4 +1,5 @@
 # NDJ File Format Specification (.ndj)
+Não, esse sistema não tem uma versão tradicional para terminal Linux ou qualquer outro.
 
 > **Dynamic Vector-Raster Hybrid Format for Real-Time Canvas Rendering & Smart Media Streaming.**
 
@@ -19,6 +20,7 @@ O **.ndj** é um formato de arquivo de mídia de alta precisão projetado para r
 
 O arquivo `.ndj` é compilado em instruções de canvas, tabelas de cores e sequências de índices de pixels:
 
+
 ```ndj
 # NDJ Custom Image Format - Precision Map
 CANVAS 740 740
@@ -30,4 +32,3 @@ PALETTE_SIZE 2560
 @c3 (#C8C8C8): {150221..167240}
 
 
-Não, esse sistema não tem uma versão tradicional para terminal Linux ou qualquer outro.
