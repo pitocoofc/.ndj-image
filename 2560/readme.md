@@ -4,3 +4,4 @@ melhor utilidade: Rosto humano
 ---
 pior: Ambientação, desenhos 
 ---
+Peso médio: 1MB
