@@ -28,3 +28,6 @@ PALETTE_SIZE 2560
 @c1 (#000000): {499501..547600}
 @c2 (#F0F0F0): {82141..96200}
 @c3 (#C8C8C8): {150221..167240}
+
+
+Não, esse sistema não tem uma versão tradicional para terminal Linux ou qualquer outro.
